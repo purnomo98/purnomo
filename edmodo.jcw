@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>edmodo</label>
+	</settings>
+	<users>
+		<user>
+			<path>edmodo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tugas\tugas.jcp</path>
+		</project>
+	</projects>
+</workspace>
